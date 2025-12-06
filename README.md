@@ -12,21 +12,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis
 - **Itegration**  : Continue both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope**       : Focus on latest dataset only; historization of data is not required.
-- **Documentation**: Provide clear documentation of the date model to support both business stakeholders and analytics trans.
-
-### BI: Analytics & Reporting (Data Analytics)
-
-### Objective
-
-Develop SQL-based analytics to deliver detailed insights intai
-
-**Customer Behavior**
-
-**Product Performance**
-
-**sales Trends**
-
-These Insights empower stakeholders with key business metrics, enabling strategic decision-making.
+- **Documentation**: Provide clear documentation of the date model to support both business stakeholders and analytics.
 
 ### License
 
